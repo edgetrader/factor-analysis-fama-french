@@ -10,7 +10,6 @@ The **Fama French 5-factor model** expands the 3-factor model by adding profitab
 
 Alternatively, we will also explore **Sharpe Style Analysis** in which we will determine the fund's exposures to changes in the returns of major factors.
 
-
 ## Funds
 - **BRK-A** - Berkshire Hathaway Inc. Class A share price
 - **IUSV** - iShares Core S&P U.S. Value ETF
@@ -18,7 +17,7 @@ Alternatively, we will also explore **Sharpe Style Analysis** in which we will d
 - **SIZE** - iShares MSCI USA Size Factor ETF
 
 ## Notebook
-1. 
+1. https://github.com/edgetrader/factor-analysis-fama-french/blob/master/notebook/factor-style-analysis.ipynb
 
 ## References
 
