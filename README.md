@@ -2,7 +2,7 @@
 ---
 
 ## Summary
-Factor analysis decompose observed returns into a set of explantory returns.  In this analysis, we will attempt to decompose the returns of a few selected funds using Fama French Factors.
+Factor analysis decompose observed returns into a set of explanatory returns.  In this analysis, we will attempt to decompose the returns of a few selected funds using Fama-French Factors.
 
 The **Fama French 3-factor model** is an asset pricing model that expands on the capital asset pricing model by adding size risk and value risk factors to the market risk factors.
 
