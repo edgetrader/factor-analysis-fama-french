@@ -18,6 +18,7 @@ Alternatively, we will also explore **Sharpe Style Analysis** in which we will d
 
 ## Notebook
 1. https://github.com/edgetrader/factor-analysis-fama-french/blob/master/notebook/factor-style-analysis.ipynb
+2. https://github.com/edgetrader/factor-analysis-fama-french/blob/master/notebook/style-analysis-industry.ipynb
 
 ## References
 
